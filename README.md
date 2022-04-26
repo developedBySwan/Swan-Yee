@@ -1,5 +1,8 @@
 ## 👋 Hey everyone, I'm Swan Yee Tun. Web Developer From Asia 👋
 
+
+![](https://komarev.com/ghpvc/?username=Swan-Yee)
+
 I spend a lot of time in front of computer and interesting at computer software, web, movies, anime and game. 
 
 I'm trying to be a specialist at web industry and also trying to be a web 3 developer.
