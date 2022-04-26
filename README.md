@@ -17,7 +17,7 @@ I'm trying to be a specialist at web industry and also trying to be a web 3 deve
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swan-yee&show_icons=true&locale=en&layout=compact" alt="swan-yee" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swan-yee&show_icons=true&locale=en" alt="swan-yee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swan-yee&" alt="swan-yee" /></p>
