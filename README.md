@@ -20,7 +20,7 @@ I'm trying to be a specialist at web industry and also trying to be a web 3 deve
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swan-yee&show_icons=true&locale=en&layout=compact&theme=jolly" alt="swan-yee" width="700" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swan-yee&show_icons=true&locale=en&theme=jolly" alt="swan-yee" width="700" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swan-yee&show_icons=true&locale=en&layout=compact&theme=jolly" alt="swan-yee" width="500" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swan-yee&show_icons=true&locale=en&theme=jolly" alt="swan-yee" width="500" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swan-yee&theme=jolly" alt="swan-yee" width="700" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swan-yee&theme=jolly" alt="swan-yee" width="500" /></p>
