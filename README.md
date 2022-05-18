@@ -3,7 +3,7 @@
 
 I spend a lot of time in front of computer and interesting at computer software, web, movies, anime and game. 
 
-I'm trying to be a specialist at web industry and also trying to be a web 3 developer.
+I'm trying to be a specialist at web industry.
 
 - 🌱 I’m currently learning **Vue, Laravel**
 
